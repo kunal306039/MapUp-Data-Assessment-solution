@@ -1,5 +1,10 @@
 import pandas as pd
 #Logic is not Build properly in my mind
+# first answer is not matched i tried so much time but logic is not built properly
+#that's why i quit the question
+#then further below question is output of 1st question
+#
+
 
 def calculate_distance_matrix(df)->pd.DataFrame():
     """
